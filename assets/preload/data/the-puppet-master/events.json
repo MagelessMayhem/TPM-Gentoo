@@ -1,0 +1,222 @@
+{
+  "song": {
+    "events": [
+      [
+        2735.29411764706,
+        [
+          ["Play Animation", "intro", "gf"],
+          ["stageChecker", "starlight1", "noflash"],
+          ["vade", "", ""],
+          ["Eteled", "", ""],
+          ["Austin", "", ""],
+          ["Chris", "", ""]
+        ]
+      ],
+      [6441.17647058824, [["gfI", "", ""]]],
+      [6529.41176470588, [["Play Animation", "intro", "dad"]]],
+      [
+        7676.47058823529,
+        [
+          ["Change Character", "dad", "cj"],
+          ["stageChecker", "starlight2", "noflash"]
+        ]
+      ],
+      [
+        53911.7647058823,
+        [
+          ["camera", "1", ""],
+          ["Change Character", "gf", "ruby"],
+          ["Change Character", "dad", "ruby"],
+          ["gfI2", "", ""],
+          ["dadI", "", ""],
+          ["stageChecker", "garage", ""]
+        ]
+      ],
+      [
+        78970.588235294,
+        [
+          ["stageChecker", "starlight2", ""],
+          ["gfI", "", ""],
+          ["dadI2", "", ""],
+          ["Change Character", "dad", "cj"]
+        ]
+      ],
+      [
+        90315.4411764705,
+        [
+          ["Change Character", "gf", "ruby"],
+          ["Change Character", "dad", "ruby"],
+          ["gfI2", "", ""],
+          ["dadI", "", ""],
+          ["stageChecker", "garage", ""]
+        ]
+      ],
+      [
+        101558.823529412,
+        [
+          ["stageChecker", "starlight2", ""],
+          ["gfI", "", ""],
+          ["dadI2", "", ""],
+          ["Change Character", "dad", "cj"]
+        ]
+      ],
+      [
+        107294.117647059,
+        [
+          ["Change Character", "gf", "ruby"],
+          ["Change Character", "dad", "ruby"],
+          ["gfI2", "", ""],
+          ["dadI", "", ""],
+          ["stageChecker", "garage", ""]
+        ]
+      ],
+      [
+        132143.382352941,
+        [
+          ["Change Character", "dad", "vade"],
+          ["gfI", "", ""],
+          ["dadI2", "", ""],
+          ["stageChecker", "fountain", ""]
+        ]
+      ],
+      [
+        203294.117647058,
+        [
+          ["Change Character", "dad", "eteled"],
+          ["stageChecker", "miiChannel", ""]
+        ]
+      ],
+      [
+        298588.235294117,
+        [
+          ["Change Character", "dad", "Austin"],
+          ["stageChecker", "wires", ""]
+        ]
+      ],
+      [
+        410205.88235294,
+        [
+          ["Change Character", "dad", "c0rruptzie"],
+          ["Change Character", "gf", "kiwiburd"],
+          ["stageChecker", "nonec0rruptzie", ""]
+        ]
+      ],
+      [
+        505411.764705881,
+        [
+          ["Change Character", "dad", "chris1"],
+          ["stageChecker", "none", ""],
+          ["gfI", "", ""]
+        ]
+      ],
+      [
+        550588.235294117,
+        [
+          ["stageChecker", "animate", ""],
+          ["Change Character", "dad", "chris2"]
+        ]
+      ],
+      [
+        700532.50773994,
+        [
+          ["Change Character", "dad", "chris1"],
+          ["stageChecker", "none", ""]
+        ]
+      ],
+      [
+        751058.823529414,
+        [
+          ["Change Character", "dad", "chris2"],
+          ["stageChecker", "animate", ""]
+        ]
+      ],
+      [
+        791479.876160993,
+        [
+          ["Change Character", "dad", "cj"],
+          ["stageChecker", "starlight2", ""]
+        ]
+      ],
+      [
+        796532.507739941,
+        [
+          ["stageChecker", "garage", ""],
+          ["Change Character", "dad", "ruby"],
+          ["Change Character", "gf", "Vade"],
+          ["cjV", "", ""],
+          ["gfI2", "", ""]
+        ]
+      ],
+      [
+        801585.139318888,
+        [
+          ["cjI", "", ""],
+          ["stageChecker", "nonec0rruptzie", ""],
+          ["Change Character", "gf", "kiwiburd"],
+          ["Change Character", "dad", "c0rruptzie"]
+        ]
+      ],
+      [
+        811690.402476783,
+        [
+          ["stageChecker", "miiChannel", ""],
+          ["Change Character", "dad", "eteled"],
+          ["Change Character", "gf", "Austin"],
+          ["camera", "1", ""]
+        ]
+      ],
+      [
+        821795.665634678,
+        [
+          ["stageChecker", "starlight2", ""],
+          ["Change Character", "dad", "cj"],
+          ["Change Character", "gf", "c0rruptzie"]
+        ],
+        null,
+        "GF Sing"
+      ],
+      [
+        824243.03405573,
+        [
+          ["camera", "1", ""],
+          ["Change Character", "gf", "Vade"],
+          ["vadey", "", ""]
+        ]
+      ],
+      [
+        825585.139318888,
+        [
+          ["stageChecker", "garage", ""],
+          ["Change Character", "dad", "kiwiburd"],
+          ["Change Character", "gf", "ruby"]
+        ]
+      ],
+      [
+        828111.455108362,
+        [
+          ["stageChecker", "wires", ""],
+          ["gfI", "", ""],
+          ["Change Character", "dad", "Austin"]
+        ]
+      ],
+      [829374.613003099, [["plush", "", ""]]],
+      [
+        831900.928792572,
+        [
+          ["Change Character", "dad", "chris2"],
+          ["stageChecker", "animate", ""],
+          ["plushBye", "", ""]
+        ]
+      ],
+      [852111.455108362, [["tween", "", ""]]],
+      [
+        854637.770897836,
+        [
+          ["stageChecker", "animate", ""],
+          ["Change Character", "dad", "all"]
+        ]
+      ],
+      [857164.08668731, [["Change Character", "dad", "all2"]]]
+    ]
+  }
+}
