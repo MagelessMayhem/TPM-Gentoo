@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fountain.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fountain0000" x="10" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0001" x="10" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0002" x="10" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0003" x="10" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0004" x="2287" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0005" x="2287" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0006" x="2287" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0007" x="2287" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0008" x="4564" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0009" x="4564" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0010" x="4564" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0011" x="4564" y="10" width="2267" height="1374"/>
+	<SubTexture name="Fountain0012" x="10" y="1394" width="2267" height="1374"/>
+	<SubTexture name="Fountain0013" x="10" y="1394" width="2267" height="1374"/>
+	<SubTexture name="Fountain0014" x="10" y="1394" width="2267" height="1374"/>
+	<SubTexture name="Fountain0015" x="10" y="1394" width="2267" height="1374"/>
+</TextureAtlas>
