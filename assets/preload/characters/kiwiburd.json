@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-322
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kiwi left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				-340
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kiwi down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-261
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kiwi up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-380
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kiwi right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-364
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kiwi idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kiwiburd",
+	"position": [
+		260,
+		160
+	],
+	"healthicon": "kiwi",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		109,
+		242
+	],
+	"camera_position": [
+		350,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

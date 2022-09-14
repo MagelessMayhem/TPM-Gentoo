@@ -1,0 +1,30 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [0, 0],
+      "anim": "intro",
+
+      "fps": 24,
+      "name": "cj intro",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [0, 0],
+      "anim": "idle",
+      "fps": 24,
+      "name": "cj intro",
+      "indices": [0, 0]
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/cjPuppet_intro",
+  "position": [-570, -2520],
+  "healthicon": "cj",
+  "flip_x": false,
+  "healthbar_colors": [0, 103, 255],
+  "camera_position": [-140, 1170],
+  "sing_duration": 6.1,
+  "scale": 1
+}

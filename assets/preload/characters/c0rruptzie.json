@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-16
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Austin left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-4
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Austin down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Austin up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				15
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Austin right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Austin idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/c0rruptzie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "corruptzie",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		90,
+		110
+	],
+	"camera_position": [
+		50,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

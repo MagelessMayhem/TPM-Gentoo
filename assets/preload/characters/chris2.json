@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				-138
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chris left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-162
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chris down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-98
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chris up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-198
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chris right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-82
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chris idle"
+		},
+		{
+			"offsets": [
+				24,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "TABLET",
+			"indices": [],
+			"name": "chris powerthingy"
+		},
+		{
+			"offsets": [
+				42,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "STOP",
+			"indices": [],
+			"name": "chris stop"
+		},
+		{
+			"offsets": [
+				126,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "TRANS",
+			"indices": [],
+			"name": "transition"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chris2",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "chris2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-20,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Eteled Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "EteledDown"
+		},
+		{
+			"offsets": [
+				11,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "EteledLeft"
+		},
+		{
+			"offsets": [
+				-63,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "EteledRight"
+		},
+		{
+			"offsets": [
+				-27,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "EteledUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ETESECH",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-240,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
