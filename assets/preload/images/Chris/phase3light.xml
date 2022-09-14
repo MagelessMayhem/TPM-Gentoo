@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phase3light.png">
+	<!-- Created with Adobe Animate version 21.0.10.42683 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phase2light0000" x="3" y="3" width="2560" height="1440" frameX="0" frameY="-15" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0001" x="3" y="3" width="2560" height="1440" frameX="0" frameY="-15" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0002" x="2566" y="3" width="2560" height="1440" frameX="0" frameY="-14" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0003" x="2566" y="3" width="2560" height="1440" frameX="0" frameY="-14" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0004" x="5129" y="3" width="2560" height="1440" frameX="0" frameY="-12" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0005" x="5129" y="3" width="2560" height="1440" frameX="0" frameY="-12" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0006" x="3" y="1446" width="2560" height="1440" frameX="0" frameY="-9" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0007" x="3" y="1446" width="2560" height="1440" frameX="0" frameY="-9" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0008" x="2566" y="1446" width="2560" height="1440" frameX="0" frameY="-6" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0009" x="2566" y="1446" width="2560" height="1440" frameX="0" frameY="-6" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0010" x="5129" y="1446" width="2560" height="1440" frameX="0" frameY="-3" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0011" x="5129" y="1446" width="2560" height="1440" frameX="0" frameY="-3" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0012" x="3" y="2889" width="2560" height="1440" frameX="0" frameY="-1" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0013" x="3" y="2889" width="2560" height="1440" frameX="0" frameY="-1" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0014" x="2566" y="2889" width="2560" height="1440" frameX="0" frameY="0" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0015" x="2566" y="2889" width="2560" height="1440" frameX="0" frameY="0" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0016" x="3" y="2889" width="2560" height="1440" frameX="0" frameY="-1" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0017" x="3" y="2889" width="2560" height="1440" frameX="0" frameY="-1" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0018" x="5129" y="2889" width="2560" height="1440" frameX="0" frameY="-3" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0019" x="5129" y="2889" width="2560" height="1440" frameX="0" frameY="-3" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0020" x="3" y="4332" width="2560" height="1440" frameX="0" frameY="-5" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0021" x="3" y="4332" width="2560" height="1440" frameX="0" frameY="-5" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0022" x="2566" y="4332" width="2560" height="1440" frameX="0" frameY="-8" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0023" x="2566" y="4332" width="2560" height="1440" frameX="0" frameY="-8" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0024" x="5129" y="4332" width="2560" height="1440" frameX="0" frameY="-11" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0025" x="5129" y="4332" width="2560" height="1440" frameX="0" frameY="-11" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0026" x="3" y="5775" width="2560" height="1440" frameX="0" frameY="-13" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0027" x="3" y="5775" width="2560" height="1440" frameX="0" frameY="-13" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0028" x="2566" y="5775" width="2560" height="1440" frameX="0" frameY="-15" frameWidth="2560" frameHeight="1455"/>
+	<SubTexture name="phase2light0029" x="3" y="3" width="2560" height="1440" frameX="0" frameY="-15" frameWidth="2560" frameHeight="1455"/>
+</TextureAtlas>
