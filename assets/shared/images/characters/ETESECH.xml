@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ETESECH.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eteled Idle0000" x="10" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0001" x="479" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0002" x="948" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0003" x="1417" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0004" x="1886" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0005" x="2355" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0006" x="2824" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0007" x="3293" y="10" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0008" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0009" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0010" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0011" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0012" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0013" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="Eteled Idle0014" x="10" y="735" width="459" height="715"/>
+	<SubTexture name="EteledDown0000" x="479" y="735" width="417" height="726"/>
+	<SubTexture name="EteledDown0001" x="906" y="735" width="417" height="726"/>
+	<SubTexture name="EteledDown0002" x="1333" y="735" width="417" height="726"/>
+	<SubTexture name="EteledDown0003" x="1760" y="735" width="417" height="726"/>
+	<SubTexture name="EteledDown0004" x="2187" y="735" width="417" height="726"/>
+	<SubTexture name="EteledLeft0000" x="2614" y="735" width="409" height="715"/>
+	<SubTexture name="EteledLeft0001" x="3033" y="735" width="409" height="715"/>
+	<SubTexture name="EteledLeft0002" x="3452" y="735" width="409" height="715"/>
+	<SubTexture name="EteledLeft0003" x="10" y="1471" width="409" height="715"/>
+	<SubTexture name="EteledLeft0004" x="429" y="1471" width="409" height="715"/>
+	<SubTexture name="EteledRight0000" x="848" y="1471" width="441" height="739"/>
+	<SubTexture name="EteledRight0001" x="1299" y="1471" width="441" height="739"/>
+	<SubTexture name="EteledRight0002" x="1750" y="1471" width="441" height="739"/>
+	<SubTexture name="EteledRight0003" x="2201" y="1471" width="441" height="739"/>
+	<SubTexture name="EteledRight0004" x="2652" y="1471" width="441" height="739"/>
+	<SubTexture name="EteledUP0000" x="3103" y="1471" width="390" height="743"/>
+	<SubTexture name="EteledUP0001" x="3503" y="1471" width="390" height="743"/>
+	<SubTexture name="EteledUP0002" x="10" y="2224" width="390" height="743"/>
+	<SubTexture name="EteledUP0003" x="410" y="2224" width="390" height="743"/>
+	<SubTexture name="EteledUP0004" x="810" y="2224" width="390" height="743"/>
+</TextureAtlas>

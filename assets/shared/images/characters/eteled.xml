@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eteled3.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eteled Attack0000" x="3" y="3" width="1059" height="568"/>
+	<SubTexture name="Eteled Attack0001" x="1065" y="3" width="1000" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0002" x="2068" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0003" x="3053" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0004" x="4038" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0005" x="4038" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0006" x="5023" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0007" x="5023" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0008" x="6008" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0009" x="6008" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0010" x="6993" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0011" x="6993" y="3" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0012" x="3" y="574" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Attack0013" x="3" y="574" width="982" height="568" frameX="0" frameY="0" frameWidth="1059" frameHeight="568"/>
+	<SubTexture name="Eteled Damage0000" x="988" y="574" width="1152" height="743" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0001" x="2143" y="574" width="1152" height="743" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0002" x="3298" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0003" x="4453" y="574" width="1152" height="682" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0004" x="5608" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0005" x="5608" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0006" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0007" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0008" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0009" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0010" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0011" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0012" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0013" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0014" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Damage0015" x="6763" y="574" width="1152" height="668" frameX="0" frameY="0" frameWidth="1152" frameHeight="752"/>
+	<SubTexture name="Eteled Dodge0000" x="3" y="1320" width="1105" height="851" frameX="0" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0001" x="1111" y="1320" width="1045" height="827" frameX="-43" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0002" x="2159" y="1320" width="1076" height="849" frameX="-27" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0003" x="3238" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0004" x="4284" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0005" x="4284" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0006" x="5330" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0007" x="5330" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0008" x="6376" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0009" x="6376" y="1320" width="1043" height="835" frameX="-51" frameY="0" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0010" x="3" y="2174" width="900" height="810" frameX="-116" frameY="-55" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0011" x="3" y="2174" width="900" height="810" frameX="-116" frameY="-55" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0012" x="3" y="2174" width="900" height="810" frameX="-116" frameY="-55" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Dodge0013" x="3" y="2174" width="900" height="810" frameX="-116" frameY="-55" frameWidth="1105" frameHeight="865"/>
+	<SubTexture name="Eteled Down0000" x="906" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0001" x="906" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0002" x="1616" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0003" x="1616" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0004" x="2326" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0005" x="2326" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0006" x="3036" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0007" x="3036" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0008" x="3746" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0009" x="3746" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0010" x="4456" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0011" x="4456" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0012" x="5166" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0013" x="5166" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0014" x="5166" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Down0015" x="5166" y="2174" width="707" height="465"/>
+	<SubTexture name="Eteled Idle0000" x="5876" y="2174" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0001" x="6422" y="2174" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0002" x="6968" y="2174" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0003" x="7514" y="2174" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0004" x="3" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0005" x="549" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0006" x="1095" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0007" x="1641" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0008" x="2187" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0009" x="2733" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0010" x="3279" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0011" x="3825" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0012" x="4371" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0013" x="4917" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0014" x="5463" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Idle0015" x="6009" y="2987" width="543" height="638" frameX="0" frameY="0" frameWidth="544" frameHeight="638"/>
+	<SubTexture name="Eteled Left0000" x="6555" y="2987" width="573" height="653" frameX="0" frameY="0" frameWidth="573" frameHeight="656"/>
+	<SubTexture name="Eteled Left0001" x="6555" y="2987" width="573" height="653" frameX="0" frameY="0" frameWidth="573" frameHeight="656"/>
+	<SubTexture name="Eteled Left0002" x="7131" y="2987" width="573" height="654" frameX="0" frameY="0" frameWidth="573" frameHeight="656"/>
+	<SubTexture name="Eteled Left0003" x="7131" y="2987" width="573" height="654" frameX="0" frameY="0" frameWidth="573" frameHeight="656"/>
+	<SubTexture name="Eteled Left0004" x="3" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0005" x="3" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0006" x="579" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0007" x="579" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0008" x="1155" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0009" x="1155" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0010" x="1731" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0011" x="1731" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0012" x="2307" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Left0013" x="2307" y="3644" width="573" height="656"/>
+	<SubTexture name="Eteled Right0000" x="2883" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0001" x="2883" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0002" x="3506" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0003" x="3506" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0004" x="4129" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0005" x="4129" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0006" x="4752" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0007" x="4752" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0008" x="5375" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0009" x="5375" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0010" x="5998" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0011" x="5998" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0012" x="6621" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled Right0013" x="6621" y="3644" width="620" height="568"/>
+	<SubTexture name="Eteled SCREAM0000" x="7244" y="3644" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0001" x="7244" y="3644" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0002" x="3" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0003" x="3" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0004" x="619" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0005" x="619" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0006" x="1235" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0007" x="1235" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0008" x="1851" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled SCREAM0009" x="1851" y="4370" width="613" height="723"/>
+	<SubTexture name="Eteled Up0000" x="2467" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0001" x="2467" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0002" x="2992" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0003" x="2992" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0004" x="3517" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0005" x="3517" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0006" x="4042" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0007" x="4042" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0008" x="4567" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0009" x="4567" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0010" x="5092" y="4370" width="522" height="672"/>
+	<SubTexture name="Eteled Up0011" x="5092" y="4370" width="522" height="672"/>
+	<SubTexture name="MISS Eteled Down0000" x="5617" y="4370" width="707" height="546"/>
+	<SubTexture name="MISS Eteled Down0001" x="6327" y="4370" width="707" height="465" frameX="0" frameY="-81" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0002" x="7037" y="4370" width="707" height="474" frameX="0" frameY="-72" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0003" x="7037" y="4370" width="707" height="474" frameX="0" frameY="-72" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0004" x="3" y="5096" width="707" height="490" frameX="0" frameY="-56" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0005" x="3" y="5096" width="707" height="490" frameX="0" frameY="-56" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0006" x="713" y="5096" width="707" height="493" frameX="0" frameY="-53" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0007" x="713" y="5096" width="707" height="493" frameX="0" frameY="-53" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0008" x="1423" y="5096" width="707" height="493" frameX="0" frameY="-53" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0009" x="1423" y="5096" width="707" height="493" frameX="0" frameY="-53" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0010" x="2133" y="5096" width="707" height="494" frameX="0" frameY="-52" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0011" x="2133" y="5096" width="707" height="494" frameX="0" frameY="-52" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0012" x="2843" y="5096" width="707" height="494" frameX="0" frameY="-52" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0013" x="2843" y="5096" width="707" height="494" frameX="0" frameY="-52" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0014" x="2843" y="5096" width="707" height="494" frameX="0" frameY="-52" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Down0015" x="2843" y="5096" width="707" height="494" frameX="0" frameY="-52" frameWidth="707" frameHeight="546"/>
+	<SubTexture name="MISS Eteled Left0000" x="6555" y="2987" width="573" height="653" frameX="0" frameY="0" frameWidth="573" frameHeight="656"/>
+	<SubTexture name="MISS Eteled Left0001" x="3553" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0002" x="4180" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0003" x="4180" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0004" x="4807" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0005" x="4807" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0006" x="5434" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0007" x="5434" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0008" x="6061" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0009" x="6061" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0010" x="6688" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0011" x="6688" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0012" x="7315" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Left0013" x="7315" y="5096" width="624" height="617" frameX="-44" frameY="-36" frameWidth="668" frameHeight="653"/>
+	<SubTexture name="MISS Eteled Right0000" x="3" y="5716" width="676" height="550"/>
+	<SubTexture name="MISS Eteled Right0001" x="682" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0002" x="1353" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0003" x="1353" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0004" x="2024" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0005" x="2024" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0006" x="2695" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0007" x="2695" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0008" x="3366" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0009" x="3366" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0010" x="4037" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0011" x="4037" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0012" x="4708" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Right0013" x="4708" y="5716" width="668" height="550" frameX="0" frameY="0" frameWidth="676" frameHeight="550"/>
+	<SubTexture name="MISS Eteled Up0000" x="2467" y="4370" width="522" height="672"/>
+	<SubTexture name="MISS Eteled Up0001" x="5379" y="5716" width="552" height="679"/>
+	<SubTexture name="MISS Eteled Up0002" x="5934" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0003" x="5934" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0004" x="6466" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0005" x="6466" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0006" x="6998" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0007" x="6998" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0008" x="7530" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0009" x="7530" y="5716" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0010" x="3" y="6398" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+	<SubTexture name="MISS Eteled Up0011" x="3" y="6398" width="529" height="679" frameX="0" frameY="0" frameWidth="552" frameHeight="679"/>
+</TextureAtlas>

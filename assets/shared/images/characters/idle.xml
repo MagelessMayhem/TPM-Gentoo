@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idle.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RenderIdle0000" x="3" y="3" width="1299" height="1192" frameX="-13" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0001" x="1306" y="3" width="1299" height="1192" frameX="-13" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0002" x="2609" y="3" width="1298" height="1192" frameX="-14" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0003" x="3911" y="3" width="1298" height="1192" frameX="-14" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0004" x="5213" y="3" width="1309" height="1192" frameX="-3" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0005" x="6526" y="3" width="1309" height="1192" frameX="-3" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0006" x="3" y="1199" width="1312" height="1192"/>
+	<SubTexture name="RenderIdle0007" x="1319" y="1199" width="1312" height="1192"/>
+	<SubTexture name="RenderIdle0008" x="2635" y="1199" width="1309" height="1192" frameX="-3" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0009" x="3948" y="1199" width="1309" height="1192" frameX="-3" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0010" x="5261" y="1199" width="1306" height="1192" frameX="-6" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0011" x="6571" y="1199" width="1306" height="1192" frameX="-6" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0012" x="3" y="2395" width="1305" height="1192" frameX="-6" frameY="0" frameWidth="1312" frameHeight="1192"/>
+	<SubTexture name="RenderIdle0013" x="1312" y="2395" width="1298" height="1192" frameX="-13" frameY="0" frameWidth="1312" frameHeight="1192"/>
+</TextureAtlas>

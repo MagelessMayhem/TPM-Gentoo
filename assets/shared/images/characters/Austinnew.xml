@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Austin.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Austin Attack0000" x="3" y="3" width="1040" height="738"/>
+	<SubTexture name="Austin Attack0001" x="1046" y="3" width="914" height="738" frameX="-54" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0002" x="1963" y="3" width="862" height="738" frameX="-43" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0003" x="2828" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0004" x="3666" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0005" x="3666" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0006" x="4504" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0007" x="4504" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0008" x="5342" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0009" x="5342" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0010" x="6180" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0011" x="6180" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0012" x="7018" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0013" x="7018" y="3" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0014" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0015" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0016" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0017" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0018" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0019" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0020" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0021" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0022" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0023" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0024" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0025" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Attack0026" x="3" y="744" width="835" height="738" frameX="-70" frameY="0" frameWidth="1040" frameHeight="738"/>
+	<SubTexture name="Austin Damage0000" x="841" y="744" width="561" height="815" frameX="0" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0001" x="1405" y="744" width="563" height="815"/>
+	<SubTexture name="Austin Damage0002" x="1971" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0003" x="2520" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0004" x="3069" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0005" x="3069" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0006" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0007" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0008" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0009" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0010" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0011" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0012" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0013" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0014" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Damage0015" x="3618" y="744" width="546" height="815" frameX="-15" frameY="0" frameWidth="563" frameHeight="815"/>
+	<SubTexture name="Austin Dodge0000" x="4167" y="744" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0001" x="5081" y="744" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0002" x="5995" y="744" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0003" x="6909" y="744" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0004" x="3" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0005" x="3" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0006" x="917" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0007" x="917" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0008" x="1831" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0009" x="1831" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0010" x="2745" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0011" x="2745" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0012" x="3659" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0013" x="3659" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0014" x="4573" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Dodge0015" x="4573" y="1562" width="911" height="695"/>
+	<SubTexture name="Austin Down0000" x="5487" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0001" x="5487" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0002" x="6060" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0003" x="6060" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0004" x="6633" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0005" x="6633" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0006" x="7206" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0007" x="7206" y="1562" width="570" height="476"/>
+	<SubTexture name="Austin Down0008" x="3" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0009" x="3" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0010" x="576" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0011" x="576" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0012" x="1149" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0013" x="1149" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0014" x="1722" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0015" x="1722" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0016" x="1722" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Down0017" x="1722" y="2260" width="570" height="476"/>
+	<SubTexture name="Austin Idle0000" x="2295" y="2260" width="591" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0001" x="2295" y="2260" width="591" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0002" x="2889" y="2260" width="595" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0003" x="2889" y="2260" width="595" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0004" x="3487" y="2260" width="596" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0005" x="3487" y="2260" width="596" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0006" x="4086" y="2260" width="599" height="823"/>
+	<SubTexture name="Austin Idle0007" x="4086" y="2260" width="599" height="823"/>
+	<SubTexture name="Austin Idle0008" x="4688" y="2260" width="593" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0009" x="4688" y="2260" width="593" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0010" x="5284" y="2260" width="591" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0011" x="5284" y="2260" width="591" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0012" x="5878" y="2260" width="590" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0013" x="5878" y="2260" width="590" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0014" x="6471" y="2260" width="588" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Idle0015" x="6471" y="2260" width="588" height="823" frameX="0" frameY="0" frameWidth="599" frameHeight="823"/>
+	<SubTexture name="Austin Left0000" x="7062" y="2260" width="753" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0001" x="7062" y="2260" width="753" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0002" x="3" y="3086" width="756" height="714"/>
+	<SubTexture name="Austin Left0003" x="3" y="3086" width="756" height="714"/>
+	<SubTexture name="Austin Left0004" x="762" y="3086" width="741" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0005" x="762" y="3086" width="741" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0006" x="1506" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0007" x="1506" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0008" x="2246" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0009" x="2246" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0010" x="2986" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0011" x="2986" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0012" x="3726" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0013" x="3726" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0014" x="4466" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Left0015" x="4466" y="3086" width="737" height="714" frameX="0" frameY="0" frameWidth="756" frameHeight="714"/>
+	<SubTexture name="Austin Right0000" x="5206" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0001" x="5206" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0002" x="5946" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0003" x="5946" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0004" x="6686" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0005" x="6686" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0006" x="7426" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0007" x="7426" y="3086" width="737" height="686" frameX="0" frameY="0" frameWidth="738" frameHeight="686"/>
+	<SubTexture name="Austin Right0008" x="3" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0009" x="3" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0010" x="744" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0011" x="744" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0012" x="1485" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0013" x="1485" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0014" x="2226" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Right0015" x="2226" y="3803" width="738" height="686"/>
+	<SubTexture name="Austin Up0000" x="2967" y="3803" width="580" height="861" frameX="-2" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0001" x="2967" y="3803" width="580" height="861" frameX="-2" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0002" x="3550" y="3803" width="581" height="861" frameX="-4" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0003" x="3550" y="3803" width="581" height="861" frameX="-4" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0004" x="4134" y="3803" width="578" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0005" x="4134" y="3803" width="578" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0006" x="4715" y="3803" width="576" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0007" x="4715" y="3803" width="576" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0008" x="5294" y="3803" width="572" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0009" x="5294" y="3803" width="572" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0010" x="5869" y="3803" width="571" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0011" x="5869" y="3803" width="571" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0012" x="6443" y="3803" width="572" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0013" x="6443" y="3803" width="572" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0014" x="7018" y="3803" width="572" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="Austin Up0015" x="7018" y="3803" width="572" height="861" frameX="-8" frameY="0" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="MISS Austin Down0000" x="3" y="4667" width="662" height="826"/>
+	<SubTexture name="MISS Austin Down0001" x="668" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0002" x="668" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0003" x="1163" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0004" x="1163" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0005" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0006" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0007" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0008" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0009" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0010" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0011" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0012" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0013" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0014" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0015" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0016" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0017" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0018" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0019" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0020" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0021" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0022" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0023" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0024" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0025" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0026" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0027" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0028" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0029" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0030" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0031" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0032" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0033" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0034" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0035" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0036" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Down0037" x="1658" y="4667" width="492" height="500" frameX="-170" frameY="-326" frameWidth="662" frameHeight="826"/>
+	<SubTexture name="MISS Austin Left0000" x="2153" y="4667" width="753" height="713"/>
+	<SubTexture name="MISS Austin Left0001" x="2909" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0002" x="2909" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0003" x="3649" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0004" x="3649" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0005" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0006" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0007" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0008" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0009" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0010" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0011" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0012" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0013" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0014" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0015" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0016" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0017" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0018" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0019" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0020" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0021" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0022" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0023" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0024" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0025" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0026" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0027" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0028" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0029" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0030" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0031" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0032" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0033" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0034" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0035" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0036" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0037" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0038" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0039" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0040" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Left0041" x="4389" y="4667" width="737" height="645" frameX="0" frameY="0" frameWidth="753" frameHeight="713"/>
+	<SubTexture name="MISS Austin Right0000" x="5129" y="4667" width="737" height="736"/>
+	<SubTexture name="MISS Austin Right0001" x="5869" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0002" x="5869" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0003" x="6535" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0004" x="6535" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0005" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0006" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0007" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0008" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0009" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0010" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0011" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0012" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0013" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0014" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0015" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0016" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0017" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0018" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0019" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0020" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0021" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0022" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0023" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0024" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0025" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0026" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0027" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0028" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0029" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0030" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0031" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0032" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0033" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0034" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Right0035" x="7201" y="4667" width="663" height="736" frameX="0" frameY="0" frameWidth="737" frameHeight="736"/>
+	<SubTexture name="MISS Austin Up0000" x="2967" y="3803" width="580" height="861" frameX="0" frameY="-6" frameWidth="586" frameHeight="861"/>
+	<SubTexture name="MISS Austin Up0001" x="3" y="5496" width="450" height="922" frameX="-94" frameY="0" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0002" x="3" y="5496" width="450" height="922" frameX="-94" frameY="0" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0003" x="456" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0004" x="456" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0005" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0006" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0007" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0008" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0009" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0010" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0011" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0012" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0013" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0014" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0015" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0016" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0017" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0018" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0019" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0020" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0021" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0022" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0023" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0024" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0025" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0026" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0027" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0028" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0029" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0030" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0031" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+	<SubTexture name="MISS Austin Up0032" x="909" y="5496" width="450" height="916" frameX="-94" frameY="-6" frameWidth="580" frameHeight="922"/>
+</TextureAtlas>
