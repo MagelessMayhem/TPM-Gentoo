@@ -1,0 +1,11 @@
+{
+  "songs": [["the-puppet-master", "chris2", [88, 81, 48]]],
+  "hideFreeplay": false,
+  "difficulties": "Hard",
+  "storyName": "The Puppet Master",
+  "weekName": "pupet-master",
+  "freeplayColor": [88, 81, 48],
+  "hideStoryMode": true,
+  "weekBefore": "tutorial",
+  "startUnlocked": true
+}
