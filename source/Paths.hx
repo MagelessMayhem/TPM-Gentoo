@@ -396,7 +396,7 @@ class Paths
 	}
 
 	inline static public function modsVideo(key:String) {
-		return modFolders('videos/' + key +);
+		return modFolders('videos/' + key + '.mp4');
 	}
 
 	inline static public function modsSounds(path:String, key:String) {
