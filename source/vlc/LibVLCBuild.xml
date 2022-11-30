@@ -25,4 +25,8 @@
             <flag value="Glut"/>
         </target>
 	
+	<target id='haxe' tool='linker' if='linux'>
+		<lib name='${CPP_DIR}/lib/linux/libvlc.so'/>
+		<lib name='${CPP_DIR}/lib/linux/libvlccore.so.7'/>
+	</target>
 </xml>
