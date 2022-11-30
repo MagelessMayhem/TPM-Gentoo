@@ -202,4 +202,8 @@
 	<icon path="art/icon32.png" size='32'/>
 	<icon path="art/icon64.png" size='64'/>
 	<icon path="art/iconOG.png" />
+	<haxedef name="hscriptPos" if="hscript" />
+	<target id='haxe' tool='linker' if='linux'>
+		<lib name='/usr/lib64/libX11.so'/>
+	</target>
 </project>
